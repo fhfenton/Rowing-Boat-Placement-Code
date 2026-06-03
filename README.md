@@ -30,3 +30,9 @@ The program calculates a score and recommends a boat placement.
 
 ## Technologies Used
 - Python
+## Commit History
+- Created basic scoring system
+- Added 2K time converter
+- Added boat placement function
+- Added loop for multiple rowers
+- Added comments and README
